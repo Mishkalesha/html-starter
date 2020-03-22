@@ -1,0 +1,30 @@
+{
+  "name": "optimizedhtml",
+  "version": "1.0.0",
+  "description": "HTML5-starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Turchynyk Oleksii",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "bootstrap": "latest",
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-babel": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-less": "latest",
+    "gulp-newer": "latest",
+    "gulp-rsync": "latest",
+    "gulp-sass": "latest",
+    "gulp-stylus": "latest",
+    "gulp-uglify-es": "latest"
+  }
+}
