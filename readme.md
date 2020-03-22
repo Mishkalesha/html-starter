@@ -1,18 +1,14 @@
-<h1>OptimizedHTML 5</h1>
+<h1>HTML5-starter</h1>
 <p>Lightweight startup HTML5 template, based on Gulp.</p>
 
-<p>
-	<img src="https://raw.githubusercontent.com/agragregra/oh5/master/app/images/src/preview.jpg" alt="Start HTML Template">
-</p>
+<p><strong>HTML5-starter</strong> - lightweight startup HTML5 template with <strong>Gulp 4</strong>, <strong>Sass/Scss/Less/Stylus</strong>, <strong>Browsersync</strong>, <strong>Autoprefixer</strong>, <strong>Uglify-ES</strong>, <strong>Clean-CSS</strong>, <strong>Rsync</strong>, <strong>CSS Reboot</strong> (Bootstrap reboot). It uses best practices for <strong>responsive images</strong> optimizing and contains a <strong>.htaccess</strong> file for resources caching (images, fonts, HTML, CSS, JS and other content types).</p>
 
-<p><strong>OptimizedHTML 5</strong> - lightweight startup HTML5 template with <strong>Gulp 4</strong>, <strong>Sass/Scss/Less/Stylus</strong>, <strong>Browsersync</strong>, <strong>Autoprefixer</strong>, <strong>Uglify-ES</strong>, <strong>Clean-CSS</strong>, <strong>Rsync</strong>, <strong>CSS Reboot</strong> (Bootstrap reboot). It uses best practices for <strong>responsive images</strong> optimizing and contains a <strong>.htaccess</strong> file for resources caching (images, fonts, HTML, CSS, JS and other content types).</p>
+<h2>How to use HTML5-starter</h2>
 
-<h2>How to use OptimizedHTML 5</h2>
-
-<pre>git clone https://github.com/agragregra/oh5</pre>
+<pre>git clone https://github.com/Mishkalesha/html-starter</pre>
 
 <ol>
-	<li>Clone or <a href="https://github.com/agragregra/OptimizedHTML-5/archive/master.zip">Download</a> <strong>OptimizedHTML 5</strong> from GitHub</li>
+	<li>Clone or <a href="https://github.com/Mishkalesha/html-starter.git">Download</a> <strong>HTML5-starter</strong> from GitHub</li>
 	<li>Install Node Modules: <strong>npm i</strong></li>
 	<li>Run: <strong>gulp</strong></li>
 </ol>
@@ -64,4 +60,4 @@
 	<li><strong>800</strong> - Black or Extra Bold or Heavy</li>
 	<li><strong>900</strong> - Extra Black or Fat or Ultra Blac</li>
 </ul>
-"# html-starter" 
+"# html-starter"
